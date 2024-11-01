@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi, I'm Tahreen anjum k a frontend and mobile application developer<br>I'm passionate about crafting responsive and engaging digital experiences. With skills in ReactJS for web development and Flutter and React Native for mobile, I enjoy building intuitive applications that put the user first.I've worked on projects that combine clean design with seamless functionality, creating solutions that meet both aesthetic and technical goals. <br><br>I'm always on the lookout for new challenges and learning opportunities in full-stack development, mobile technology, and cross-platform design.<br>
+👋 Hi, I'm Tahreen anjum, a frontend and mobile application developer<br>I'm passionate about crafting responsive and engaging digital experiences. With skills in ReactJS for web development and Flutter and React Native for mobile, I enjoy building intuitive applications that put the user first.I've worked on projects that combine clean design with seamless functionality, creating solutions that meet both aesthetic and technical goals. <br><br>I'm always on the lookout for new challenges and learning opportunities in full-stack development, mobile technology, and cross-platform design.<br>
 
 ## 🌐 Socials:
 
